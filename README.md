@@ -1,4 +1,4 @@
-# Local Azure GPT Assistant
+# Local Prime DevBot
 
 **Author:** Kiran Beethoju
 **License:** MIT
